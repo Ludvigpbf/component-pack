@@ -1,0 +1,20 @@
+{
+  "name": "react-component-pack",
+  "version": "1.0.0",
+  "description": "Dynamic react components",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ludvigpbf/react-component-pack.git"
+  },
+  "keywords": [
+    "React",
+    "Components"
+  ],
+  "author": "Flyckt Coding",
+  "license": "MIT",
+  "homepage": "https://github.com/Ludvigpbf/scss-pack#readme"
+}
